@@ -121,11 +121,6 @@
     text-align: right;
 }
 
-
-.text_cover .no_spacing {
-    letter-spacing: 60px;
-}
-
 .cover_description {
     display: flex;
     align-items: baseline;
